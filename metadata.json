@@ -1,0 +1,5 @@
+{
+  "name": "Foodie - Hostel Food Delivery",
+  "description": "A complete hostel food delivery system allowing students to order from local restaurants and admins to manage orders and menus. Features a simulated full-stack environment with local persistence and AI-powered menu descriptions.",
+  "requestFramePermissions": []
+}
